@@ -1,0 +1,5 @@
+h1:
+gd-sage,"Times New Roman",serif
+
+body:
+gdsherpa,Helvetica,Arial,sans-serif
