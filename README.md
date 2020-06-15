@@ -8,4 +8,4 @@
 在 [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) 项目之上，服务端配置的自动 pac 代理规则
 
 ### 二维码生成
-自定义文本生成相应二维码
+自定义文本生成相应二维码 [页面链接](https://fz6m.github.io/tools/qr.html)
