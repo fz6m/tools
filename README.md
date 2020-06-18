@@ -9,3 +9,6 @@
 
 ### 二维码生成
 自定义文本生成相应二维码 [页面链接](https://fz6m.github.io/tools/qr.html)
+
+### Pixiv 下载
+按画师 ID 异步的下载其所有作品图片（无需代理）
