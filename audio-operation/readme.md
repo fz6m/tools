@@ -24,6 +24,7 @@ def which(program):
         program += ".exe"
 
     envdir_list = [os.curdir] + os.environ["PATH"].split(os.pathsep)
+
     # 添加下面这一行，append 内容为刚刚 ffmpeg 的 bin 目录
     envdir_list.append('E:/ffmpeg/bin')
 
@@ -32,6 +33,8 @@ def which(program):
         if os.path.isfile(program_path) and os.access(program_path, os.X_OK):
             return program_path
 ```
+在该文件添加一行内容即可。
+
 
 ### 使用说明
 
