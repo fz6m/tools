@@ -12,3 +12,6 @@
 
 ### Pixiv 下载
 按画师 ID 异步的下载其所有作品图片（无需代理）
+
+### 音频处理工具
+基于 AudioSegment 的音频处理例子 [使用说明](./audio-operation/)
