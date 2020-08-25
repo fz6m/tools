@@ -30,5 +30,8 @@
     /* 粉色 */
     color: #ff9ec6;
     background-color: rgba(255,158,198,1); /* 同上 */
+    background-color: rgba(255,158,198,.08); /* 同上 */
+    /* 更亮的粉色 */
+    background-color: rgba(255,191,218,1);
 
 }
