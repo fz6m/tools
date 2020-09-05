@@ -1,0 +1,9 @@
+.color {
+    /* 背景灰色 */
+    background-color: #313131;
+
+    /* 输入框背景灰色 */
+    background-color: #f3f5f6;
+    color: #9199a1; /* 搭配深一点的灰色字体 */
+
+}
